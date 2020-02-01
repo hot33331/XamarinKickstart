@@ -1,30 +1,14 @@
-# Xamarin Kickstart
-With this repository I hope to put together all the necessary information for people who want to start Xamarin development. Please feel free to extend and correct - PRs are very welcome!
+# Help, I'm stuck
+Everybody has been there, you have a problem and you cannot seem to find the solution - where to look for help?
 
-## 1. Xamarin - whats that?
-If you are an absolute beginner - worry not, we got you covered. You might want to start [here](
-https://dotnet.microsoft.com/learn/xamarin/what-is-xamarin).
+## [Stackoverflow](https://www.stackoverflow.com)
 
-## [2. Xamarin learning / getting started ressources](./xamarinlearning)
+## [Xamarin Forums](https://forums.xamarin.com)
 
-## [3. Xamarin conferences and meetups](./conference_meetup)
+## Slack
+Use [this link](https://xamarinchat.herokuapp.com) to get you an invitation to the xamarinchat slack channel. This is not an official support channel, but there are lot of great Xamarin devs and chances are that they might help you if you ask nicely.
 
-## [4. HELP - I'm stuck](./helpimstuck)
-
-## 5. Xamarin in the wild
-- Real world Xamarin app (in the stores)
-- Amazing UI
-
-## 6. When and why should you use Xamarin
-
-## 7. Xamarin Tooling
-
-## 8. Build, CI, DevOps
-
-## 9. Important libraries
-- UI
-- Data
-- MVVM
-- Other
+## Twitter
+Here's a list of people you might want to follow to stay informed about what's going on in the Xamarin world and if you are lucky enough to get followed back, you might get answers for your Xamarin questions that you post on twitter.
 
 
