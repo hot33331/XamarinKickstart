@@ -1,4 +1,4 @@
-# Xamarin learnin / getting started ressources
+# Xamarin learning / getting started ressources
 On this page we focus on training. There are tons of good resources where you can learn about Xamarin:
 
 ### ~~Xamarin University~~ -> Microsoft Learn
