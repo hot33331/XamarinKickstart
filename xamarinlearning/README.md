@@ -22,4 +22,4 @@ There is still content from the former dev days with tutorials and slides that c
 * [Rendy's Website](http://www.xamboy.com/)
 * [Daniel Hindrikes](https://danielhindrikes.se/)
 * [Progrunning](https://progrunning.net/)
-* [CodeTraveler.io](https://codetraveler.io)
+* [Brandon Minnick: CodeTraveler.io](https://codetraveler.io)
