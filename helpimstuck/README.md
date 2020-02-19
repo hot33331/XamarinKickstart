@@ -10,5 +10,13 @@ Use [this link](https://xamarinchat.herokuapp.com) to get you an invitation to t
 
 ## Twitter
 Here's a list of people you might want to follow to stay informed about what's going on in the Xamarin world and if you are lucky enough to get followed back, you might get answers for your Xamarin questions that you post on twitter.
+[@xamarinhq](https://twitter.com/xamarinhq)
+[@xamarinevents](https://twitter.com/xamarinevents)
+[@migueldeicaza](https://twitter.com/migueldeicaza)
+[@jamesmontemagno](https://twitter.com/jamesmontemagno)
+[@davidortinau](https://twitter.com/davidortinau)
+[@jfversluis](https://twitter.com/jfversluis)
+[@depechie](https://twitter.com/depechie)
+[@dylbot9000](https://twitter.com/dylbot9000)
 
 
