@@ -29,3 +29,7 @@ A great aggregator of all kinds of blogs is [Planet Xamarin](https://www.planetx
 ### Videos
  * [Xamarin Developers YouTube](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)
  * [Gerald.Codes(Xamarin.Forms);](https://www.youtube.com/playlist?list=PLfbOp004UaYUgjhTHjtSixo-iMdz6PhIv)
+
+### Code Samples
+* [Marco Seraphin: MVVM, Offline Database](https://github.com/marcoseraphin/AppStandard)
+* [Marco Seraphin: AppShell Sample](https://github.com/marcoseraphin/ShellStandardApp)
