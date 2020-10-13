@@ -17,7 +17,7 @@ https://dotnet.microsoft.com/learn/xamarin/what-is-xamarin).
 
 ## 6. When and why should you use Xamarin
 
-## 7. Xamarin Tooling
+## [7. Xamarin Tooling](./xamarintooling)
 
 ## 8. Build, CI, DevOps
 
