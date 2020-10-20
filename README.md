@@ -20,12 +20,6 @@ https://dotnet.microsoft.com/learn/xamarin/what-is-xamarin).
 
 ## [7. Xamarin Tooling](./xamarintooling)
 
-### IDE
-
-- Visual Studio for Windows - [Download Here](https://visualstudio.microsoft.com/downloads/)
-- Visual Studio for Mac - [Download Here](https://visualstudio.microsoft.com/vs/mac/)
-- JetBrains Rider (Win/Mac/Linux)- [Download Here](https://www.jetbrains.com/rider/)
-
 ## 8. Build, CI, DevOps
 
 1. Devops Intro - [Article](https://docs.microsoft.com/en-us/xamarin/tools/ci/intro-to-ci) | [Video](https://youtu.be/wXgnh2Q7Uv8)
